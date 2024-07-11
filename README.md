@@ -60,7 +60,7 @@ AI科研人 / 独立音乐人 / 打击乐器演奏员 / ENFJ-A
 ## Kai Li ✨ $Leakey$
 AI Postgraduate / Music Producer / Percussion Performer / ENFJ-A
 ### 🏫 Education
-#### 2020-2024 Beijing University of Chemical Technology, School of Information Science and Technology, Bachelor
+#### 2020-2024 School of Information Science and Technology, Beijing University of Chemical Technology, Bachelor
 - 2024 Beijing Outstanding Graduate, awarded National Scholarship for three consecutive years during undergraduate studies
 #### 2024-present Institute of Automation, Chinese Academy of Sciences, Artificial Intelligence, Postgraduate
 - Research areas: Multimodal Time Series Prediction, Retrieval-Augmented Generation for Large Language Models, Modeling & Optimization, Advanced Predictive Control, etc.
