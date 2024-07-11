@@ -62,7 +62,7 @@ AI Postgraduate / Music Producer / Percussion Performer / ENFJ-A
 ### 🏫 Education
 #### 2020-2024 Beijing University of Chemical Technology, Department of Automation, Bachelor
 - 2024 Beijing Outstanding Graduate, awarded National Scholarship for three consecutive years during undergraduate studies
-#### 2024-present Institute of Automation, Chinese Academy of Sciences, Artificial Intelligence, Master's Student
+#### 2024-present Institute of Automation, Chinese Academy of Sciences, Artificial Intelligence, Postgraduate
 - Research areas: Multimodal Time Series Prediction, Retrieval-Augmented Generation for Large Language Models, Modeling & Optimization, Advanced Predictive Control, etc.
 ### 🏆 Achievements
 - 2021 Chinese Undergraduate Mathematical Contest in Modeling **First Prize Winner** (0.65%)🥇
@@ -97,3 +97,4 @@ AI Postgraduate / Music Producer / Percussion Performer / ENFJ-A
 - Provide near-publishable original compositions, arrangements, and mixed works, supporting highly customized creations.
 - Offer exchange guidance and full-process technical support for music creation.
 
+![Leakey-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leakey-AI&show_icons=true&theme=transparent)
