@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 李凯 ✨ $Leakey$
 AI科研人 / 独立音乐人 / 打击乐器演奏员 / ENFJ-A
 ### 🏫 教育经历
-#### 2020-2024 北京化工大学 自动化系 本科
+#### 2020-2024 北京化工大学 自动化 本科
 - 2024年北京市优秀毕业生，本科期间连续三年获得国家奖学金
 #### 2024-至今 中国科学院自动化研究所 人工智能 硕士生
 - 研究方向：多模态时序预测，大模型检索增强生成，Modeling & Optimization，先进预测控制等
@@ -60,7 +60,7 @@ AI科研人 / 独立音乐人 / 打击乐器演奏员 / ENFJ-A
 ## Kai Li ✨ $Leakey$
 AI Postgraduate / Music Producer / Percussion Performer / ENFJ-A
 ### 🏫 Education
-#### 2020-2024 Beijing University of Chemical Technology, Department of Automation, Bachelor
+#### 2020-2024 Beijing University of Chemical Technology, School of Information Science and Technology, Bachelor
 - 2024 Beijing Outstanding Graduate, awarded National Scholarship for three consecutive years during undergraduate studies
 #### 2024-present Institute of Automation, Chinese Academy of Sciences, Artificial Intelligence, Postgraduate
 - Research areas: Multimodal Time Series Prediction, Retrieval-Augmented Generation for Large Language Models, Modeling & Optimization, Advanced Predictive Control, etc.
