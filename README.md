@@ -1,4 +1,4 @@
-## Hi there 👋 This is Leakey from CASIA
+## Greetings 👋 This is Leakey from CASIA
 
 <!--
 **Leakey-AI/Leakey-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
