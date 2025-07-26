@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 李凯 ✨ $Leakey$
-AI科研人 / 独立音乐人 / 打击乐器演奏员 / ENFJ-A
+人工智能科学研究 / 独立音乐人 / 打击乐器演奏员 / INTJ
 ### 🏫 教育经历
 #### 2020-2024 北京化工大学 自动化 本科
 - 2024年北京市优秀毕业生，本科期间连续三年获得国家奖学金，同时具有人工智能、控制理论、最优化方法的学科背景
@@ -30,14 +30,15 @@ AI科研人 / 独立音乐人 / 打击乐器演奏员 / ENFJ-A
 ### 💻 正在做
 - 从事大模型 & 智能体相关的科研活动，研究大模型驱动的事件预测方法
 - 智悦云创 AI Lab 算法研究员，[_智悦云创_ AIGility Cloud](https://www.aigilitycloud.com/)
+- 高强度使用 Vibe Coding 编写代码
 ### 📝 科研活动
 - **Li K**, Wang C, Wu H. Multimodal transformer for bearing fault diagnosis: A new method based on frequency-time feature decomposition[J]. *Soft Computing* `(Under Review)`, 2023.[👉Paper](https://www.researchsquare.com/article/rs-3258385/v1)
 - Liang M, Yang L, **Li K**, et al. Improved collaborative filtering for cross-store demand forecasting[J]. *Computers & Industrial Engineering*, 2024, 190: 110067.[👉Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360835224001888)
 ### 🎹 兴趣爱好
 - 原创音乐制作人 - 热爱音乐、音乐表演、音乐创作以及与音乐相关的一切事物！
-- 连续数年担任高校民族管弦乐团打击声部演奏员，曾参与演奏《丝竹交响》、《长城随想曲》、《瑶族舞曲》、《金蛇狂舞》、《太阳颂》、《编花篮》等著名民族音乐曲目
-- AIGC - 文生图像 ( MidJourney, Ideogram, SD, DALL·E ) prompt engineer
-- AIGC - 文生音频 ( 网易天音, X Studio, Suno AI ) prompt engineer
+- 连续数年担任高校民族管弦乐团打击声部演奏员，曾参与演奏《丝竹交响》、《长城随想曲》、《瑶族舞曲》、《金蛇狂舞》、《太阳颂》等著名民族音乐曲目
+- AIGC - 文生图像 ( MidJourney, Ideogram, SD, DALL·E ) Prompt 设计师
+- AIGC - 文生音频 ( 网易天音, X Studio, Suno AI ) Prompt 设计师
 ### 🎵 网易音乐人 Leakey
 - 流行音乐 / 电子音乐 / Electro / Dubstep / Progressive House / 钢琴纯音乐 / 中国民族管弦乐
 - 原创作品***46***首，合作作品*4*首，总播放量*134w+*，日常点播稳定*300+*
