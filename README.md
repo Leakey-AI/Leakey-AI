@@ -1,11 +1,11 @@
 # Greetings 👋 This is $Leakey$ from CASIA
 
-**AI Researcher / Builder** focused on **LLM Agents, Long-term Memory, RAG, and Temporal Knowledge Graphs**
-M.S. student (Class of 2027), **University of Chinese Academy of Sciences (UCAS)**
-Research training at **Institute of Automation, Chinese Academy of Sciences (CASIA)**
+**AI Researcher / Builder** focused on **LLM Agents, Long-term Memory, RAG, and Temporal Knowledge Graphs**  
+M.S. student (Class of 2027), **University of Chinese Academy of Sciences (UCAS)**  
+Research training at **Institute of Automation, Chinese Academy of Sciences (CASIA)**  
 
 * 📧 Email: `15842680735@163.com`
-* 🧠 Current focus: **Agent Memory & Cognition Systems**, **Industrial Agents**, **LLM + TKG + Causal Reasoning**
+* 🧠 Current focus: **Agent Memory & Cognition Systems**, **BI Agents**, **LLM + Data Mining / Causal Reasoning**
 * 🌐 TiMem Cloud: [timem.cloud](https://timem.cloud/)
 * 🧩 TiMem (Open Source): [TiMEM-AI/timem](https://github.com/TiMEM-AI/timem)
 
@@ -13,14 +13,13 @@ Research training at **Institute of Automation, Chinese Academy of Sciences (CAS
 
 ## About Me
 
-I build **memory and cognition systems for LLM agents** — not just demos, but systems that can be designed, evaluated, iterated, and delivered.
+I build **memory and cognition systems for LLM agents** — which can be designed, evaluated, iterated, and delivered.
 
 My recent work sits at the intersection of:
 
 * **LLM Agents** (workflow / tools / RAG / self-evolving modules)
 * **Long-term Memory** (temporal-aware, hierarchical, retrieval-ready)
-* **Industrial AI** (fault awareness, root-cause tracing, early warning)
-* **Causal reasoning + Temporal Knowledge Graphs**
+* **BI Agents** (Business Bntelligence, Data Mining, Causal Reasoning)
 
 I enjoy working on problems that require both:
 
