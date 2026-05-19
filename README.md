@@ -29,6 +29,39 @@ I enjoy working on problems that require both:
 
 ---
 
+## 💼 Experience
+
+### Taobao & Tmall Group, Alibaba — Research Intern
+
+**Duration:** Apr 2026 – Present  
+**Location:** Beijing, China  
+**Role:** Research Intern — Agent Memory System & Applications
+
+Focused on research and development of **agent memory systems** for large-scale applications.
+
+---
+
+### AI Lab, AIGility Cloud Innovation — Research Scientist 
+
+**Duration:** Jun 2025 – Apr 2026  
+**Location:** Beijing, China  
+**Role:** Research Scientist — Agent Memory System
+
+Led **TiMem** — a memory & cognition engine for LLM agents:
+
+* **Memory System Design:** Core algorithms for memory structure, consolidation, retrieval, and selection
+* **End-to-End Ownership:** Problem framing → mechanism design → MVP → evaluation → iteration
+* **Integration:** Agent workflow, RAG, tool use, and self-evolving modules
+* **Performance:** LoCoMo 75.30%, LongMemEval 76.88%, token cost reduced by 52.20%
+
+### Outputs
+
+* 📄 Paper: [TiMem (arXiv:2601.02845)](https://arxiv.org/abs/2601.02845) — **Accepted to ACL Findings 2026**
+* 💻 Open Source: [TiMEM-AI/timem](https://github.com/TiMEM-AI/timem)
+* 🌐 Service: [timem.cloud](https://timem.cloud/)
+
+---
+
 ## 🔥 Featured Work
 
 ### TiMem — Temporal-Hierarchical Memory for Long-Horizon Conversational Agents
@@ -53,7 +86,7 @@ TiMem is a memory & cognition engine for LLM agents, designed for:
 ### Outputs
 
 * 📄 Paper (arXiv): [TiMem: Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents](https://arxiv.org/abs/2601.02845)
-* 🧪 Submission: **ACL ARR 2026 (Jan cycle)**
+* 🎉 **Accepted to ACL Findings 2026**
 * 💻 Code: [TiMEM-AI/timem](https://github.com/TiMEM-AI/timem)
 * 🌐 Service: [timem.cloud](https://timem.cloud/)
 
@@ -65,27 +98,17 @@ TiMem is a memory & cognition engine for LLM agents, designed for:
 
 ---
 
-## 🏭 Ongoing Research (Industrial AI)
+## 🏭 Ongoing Research (AI + Data Mining)
 
-### Temporal KG + LLM for Causal Mining, Fault Tracing, and Early Warning
+### LLM-Powered Data Mining for Digital Marketing & Marketing Science
 
-**Project Lead** | `LLM + TKG-RAG + Causal Reasoning + LLM4Rec`
+**Project Lead** | `LLM + Data Mining + Marketing Intelligence`
 
-I’m working on an industrial-oriented framework for:
+Researching next-gen data mining frameworks for marketing intelligence:
 
-* complex process fault tracing
-* early warning
-* causal-aware reasoning over event sequences and temporal knowledge graphs
-
-### Core ideas
-
-* Mine latent causal signals from **behavior sequences + event evolution + structured knowledge**
-* Inject **causal constraints + graph knowledge** into LLM reasoning
-* Support industrial tasks such as:
-
-  * fault awareness
-  * root-cause analysis
-  * interpretable early warning
+* **LLM-enhanced mining**: Pattern discovery and insight extraction from multi-modal marketing data
+* **Marketing Science + AI**: Combining marketing analytics with LLM reasoning for scientific decision-making
+* **Applications**: Consumer behavior modeling, campaign optimization, ROI attribution, personalized recommendation
 
 ---
 
@@ -97,7 +120,7 @@ I’m working on an industrial-oriented framework for:
 **First Author** · LLM Agent / Agent Memory / Long-context Dialogue
 
 * arXiv: `2601.02845`
-* Submitted to **ACL ARR 2026 (Jan)**
+* **Accepted to ACL Findings 2026**
 
 ---
 
@@ -123,39 +146,35 @@ I’m working on an industrial-oriented framework for:
 
 ### LLM / Agent
 
-* Agentic Workflow
-* RAG
-* Long-term Memory
-* Prompting
-* Tool/Skill Use
-* Agent Evaluation & Iteration
-* Self-Evolving Agent Modules
+* Agent Workflow, RAG, Long-term Memory
+* Prompt/Context Engineering, Tool/Skill Use
+* Agent Evaluation & Self-Evolving Modules
 
-### Modeling & Algorithms
+### Data Mining & Algorithms
 
-* Temporal Modeling
-* Causal Reasoning
-* Temporal Knowledge Graphs
-* Recommender Systems
-* Machine Learning / Deep Learning
-* Optimization
-* Statistical Analysis
+* Data Mining, Marketing Analytics, Recommender Systems
+* Time Series Analysis, Machine Learning / Deep Learning  
+* Statistical Analysis, Optimization
 
 ### Engineering
 
-* Python, PyTorch, CUDA, MATLAB, C
-* SQL, Linux, Git, Docker
+* **Languages**: Python, PyTorch, CUDA, SQL, C, MATLAB
+* **Tools**: Linux, Git, Docker
 
-### AI-Collaborative Development
+### AI-Collaborative Development (Vibe Coding)
 
-I work deeply with AI systems in R&D loops (beyond “vibe coding”):
-**problem decomposition → solution design → implementation → debugging → evaluation → iteration**, with a strong focus on speed *and* quality.
+Beyond traditional coding — **AI-native R&D workflow**:
+
+* **Agentic IDE**: Claude Code, Cursor, Qoder
+* **Workflow**: Problem decomposition → AI-assisted design → Rapid prototyping → Iterative refinement
+* **Focus**: Speed + Quality through human-AI collaboration
+* **Beyond Vibe Coding**: Structured engineering practices (testing, evaluation, deployment) with AI acceleration
 
 ---
 
 ## 🏆 Honors
 
-* **National Scholarship** ×3 (2020–2023)
+* **National Scholarship** ×3 (2021–2024)
 * **National First Prize**, China Undergraduate Mathematical Contest in Modeling (2021, Team Leader)
 * **National Second Prize**, China Undergraduate Mathematical Contest in Modeling (2022, Team Leader)
 * **MCM/ICM Finalist** (2023, Team Leader)
